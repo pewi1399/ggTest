@@ -5,3 +5,5 @@ ggplot(mtcars)+
 
 #comment
 plot(1:10)
+
+t.test(runif(100,-1,1))
